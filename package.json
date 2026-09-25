@@ -1,0 +1,24 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenngocduy1981/hello-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nguyenngocduy1981/hello-node/issues"
+  },
+  "homepage": "https://github.com/nguyenngocduy1981/hello-node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
